@@ -1,0 +1,88 @@
+aid: lilium-air
+name: Lilium
+description: >-
+  Lilium was a German eVTOL aircraft developer building the Lilium Jet, a
+  seven-seat (including pilot) ducted-fan electric jet designed for regional
+  air mobility with target cruise speeds around 175 mph and ranges in excess
+  of 100 nautical miles. Lilium pursued concurrent EASA and FAA Type
+  Certification and signed pre-orders with operators across Europe, the Middle
+  East, the United States, Brazil, and Saudi Arabia. In October 2024 Lilium's
+  board approved self-administration for its German subsidiaries after failing
+  to secure a guarantee for a EUR 50 million Bavarian government loan, and in
+  December 2024 the company ceased operations and laid off approximately 1,000
+  employees. A consortium called Mobile Uplift Corporation GmbH announced a
+  partial asset acquisition in late December 2024, but in February 2025
+  Lilium's German entities filed a second insolvency after the promised
+  takeover financing failed to materialize. As of this profile (May 2026)
+  Lilium remains non-operational and the website and social channels may be
+  intermittently available; this profile is preserved for historical and
+  archival reference.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://lilium.com
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+position: 1
+access: 3rd-Party
+tags:
+  - Advanced Air Mobility
+  - Aerospace
+  - Air Taxi
+  - Defunct
+  - eVTOL
+  - EASA Certification
+  - Electric Aviation
+  - Germany
+  - Insolvency
+  - Regional Air Mobility
+apis: []
+common:
+  - url: https://lilium.com/
+    name: Lilium Website (status may vary)
+    type: Website
+  - url: https://lilium.com/company
+    name: About Lilium
+    type: About
+  - url: https://lilium.com/newsroom
+    name: Newsroom
+    type: Blog
+  - url: https://lilium.com/jet
+    name: Lilium Jet
+    type: Product
+  - url: https://lilium.com/contact
+    name: Contact
+    type: Contact
+  - url: https://en.wikipedia.org/wiki/Lilium_GmbH
+    name: Lilium GmbH (Wikipedia)
+    type: Reference
+  - url: https://www.easa.europa.eu/
+    name: EASA (Regulator)
+    type: Regulator
+  - url: https://www.faa.gov/newsroom
+    name: FAA Newsroom (Regulator)
+    type: Regulator
+  - url: https://www.linkedin.com/company/lilium-aviation/
+    name: LinkedIn
+    type: LinkedIn
+  - url: https://x.com/Lilium
+    name: X (Twitter)
+    type: X
+  - url: https://www.youtube.com/@LiliumAviation
+    name: YouTube
+    type: YouTube
+  - url: https://www.instagram.com/lilium/
+    name: Instagram
+    type: Instagram
+  - url: https://lilium.com/imprint
+    name: Imprint
+    type: Imprint
+  - url: https://lilium.com/terms-of-use
+    name: Terms of Use
+    type: TermsOfService
+  - url: https://lilium.com/privacy-policy
+    name: Privacy Policy
+    type: PrivacyPolicy
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
