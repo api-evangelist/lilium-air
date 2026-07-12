@@ -38,6 +38,8 @@ tags:
   - Regional Air Mobility
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lilium-air-domain-security.yml
   - url: https://lilium.com/
     name: Lilium Website (status may vary)
     type: Website
