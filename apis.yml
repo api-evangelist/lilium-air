@@ -17,6 +17,17 @@ description: >-
   Lilium remains non-operational and the website and social channels may be
   intermittently available; this profile is preserved for historical and
   archival reference.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
