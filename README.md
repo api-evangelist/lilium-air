@@ -1,4 +1,4 @@
-# lilium-air
+# Lilium
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,47 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Lilium — Lilium Jet eVTOL (Chapter 11 2024, restart attempts)
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
+
+Lilium was a German eVTOL aircraft developer building the Lilium Jet, a seven-seat (including pilot) ducted-fan electric jet designed for regional air mobility with target cruise speeds around 175 mph and ranges in excess of 100 nautical miles. Lilium pursued concurrent EASA and FAA Type Certification and signed pre-orders with operators across Europe, the Middle East, the United States, Brazil, and Saudi Arabia. In October 2024 Lilium's board approved self-administration for its German subsidiaries after failing to secure a guarantee for a EUR 50 million Bavarian government loan, and in December 2024 the company ceased operations and laid off approximately 1,000 employees. A consortium called Mobile Uplift Corporation GmbH announced a partial asset acquisition in late December 2024, but in February 2025 Lilium's German entities filed a second insolvency after the promised takeover financing failed to materialize. As of this profile (May 2026) Lilium remains non-operational and the website and social channels may be intermittently available; this profile is preserved for historical and archival reference.
+
+**Areas:** Advanced Air Mobility · Aerospace · Air Taxi · Defunct · eVTOL · EASA Certification · Electric Aviation · Germany · Insolvency · Regional Air Mobility
+
+## Lilium on APIs.io (historical record)
+
+Everything profiled for Lilium is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lilium-air/](https://apis.io/providers/lilium-air/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lilium Air Domain Security](https://apis.io/security/lilium-air/lilium-air-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lilium.com/)
+- [Blog](https://lilium.com/newsroom)
+- [Terms of service](https://lilium.com/terms-of-use)
+- [Privacy policy](https://lilium.com/privacy-policy)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lilium: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lilium-air/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
